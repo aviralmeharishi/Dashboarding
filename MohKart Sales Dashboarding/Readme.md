@@ -80,9 +80,8 @@ This dashboard empowers MohKart to:
 
 If you liked this dashboard or want to collaborate on similar data projects:
 
-📧 Email: [your.email@example.com]  
-🔗 GitHub: [github.com/yourhandle]  
-📱 LinkedIn: [linkedin.com/in/yourprofile]
+📧 Email: [aviralmeharishi@gmail.com]  
+
 
 ---
 
